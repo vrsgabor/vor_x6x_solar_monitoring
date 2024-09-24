@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(my_awesome_package)
+project(solar_monitoring_package_cpp)
 
 # Default to C++14
 if(NOT CMAKE_CXX_STANDARD)

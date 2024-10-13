@@ -50,4 +50,4 @@ classDef white fill:#ffffff,stroke:#152742,stroke-width:2px,color:#152742
 classDef red fill:#ef4638,stroke:#152742,stroke-width:2px,color:#fff
 
 ```
-![](img/solar_power_monitoring.png)
+![](solar_power_monitoring.png)

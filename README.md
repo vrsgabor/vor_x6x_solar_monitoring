@@ -20,7 +20,7 @@ git clone https://github.com/vrsgabor/vor_x6x_solar_monitoring
 cd ~/ros2_ws
 ```
 ``` r
-colcon build --packages-select solar_monitoring--symlink-install
+colcon build --packages-select vor_x6x_solar_monitoring--symlink-install
 ```
 
 <details>
@@ -33,7 +33,7 @@ source ~/ros2_ws/install/setup.bash
 
 ``` r
 
-ros2 launch solar_monitoring solar_monitoring_launch.py
+ros2 launch vor_x6x_solar_monitoring solar_monitoring_launch.py
 
 ```
 ```mermaid
